@@ -8,7 +8,7 @@
 ### How to install
 
 ```bash
-$ pip install deepbrain
+$ pip install git+https://github.com/m0bi5/deepbrain.git#egg=deepbrain
 ```
 
 #### Available tools:
